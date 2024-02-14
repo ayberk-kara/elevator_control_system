@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ayber/Downloads/asfasfafsasf/clk_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ayber/Downloads/asfasfafsasf/debouncer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debouncer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ayber/Downloads/asfasfafsasf/elevator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module elevator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ayber/Downloads/asfasfafsasf/ssd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ssd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ayber/Downloads/asfasfafsasf/top_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/ayber/Downloads/asfasfafsasf/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
